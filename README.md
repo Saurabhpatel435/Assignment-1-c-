@@ -1,2 +1,2 @@
-# Assignment-1-c-
+# Assignment-1 C++
 Basic program
